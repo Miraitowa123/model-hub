@@ -1,0 +1,1 @@
+这是一个用vibe coding写的大模型广场，采用openspec➕opencode/claudecode/codex
